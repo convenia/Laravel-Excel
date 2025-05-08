@@ -24,10 +24,10 @@
   "require": {
     "php": ">=5.5",
     "convenia/excel-manager": "^1.9",
-    "illuminate/cache": "^5.0|^6.0|^7.0|^8.0|^9.0|^10.0",
-    "illuminate/config": "^5.0|^6.0|^7.0|^8.0|^9.0|^10.0",
-    "illuminate/filesystem": "^5.0|^6.0|^7.0|^8.0|^9.0|^10.0",
-    "illuminate/support": "^5.0|^6.0|^7.0|^8.0|^9.0|^10.0",
+    "illuminate/cache": "^5.0|^6.0|^7.0|^8.0|^9.0|^10.0|^11.0|^12.0",
+    "illuminate/config": "^5.0|^6.0|^7.0|^8.0|^9.0|^10.0|^11.0|^12.0",
+    "illuminate/filesystem": "^5.0|^6.0|^7.0|^8.0|^9.0|^10.0|^11.0|^12.0",
+    "illuminate/support": "^5.0|^6.0|^7.0|^8.0|^9.0|^10.0|^11.0|^12.0",
     "jeremeamia/superclosure": "^2.3",
     "nesbot/carbon": "~1.0|~2.0",
     "tijsverkoyen/css-to-inline-styles": "~2.0"
